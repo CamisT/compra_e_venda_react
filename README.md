@@ -8,7 +8,8 @@ Sistema de gestão para monitar vendas e compras, gastos e ganhos de lojas/empre
 
 ## 🚀 Preview <a id="preview"></a>
 
-senha: 123
+
+https://github.com/CamisT/compra_e_venda_react/assets/87918920/925c7fed-5c2f-4a2c-9856-d747b68c27b4
 
 
 
